@@ -28,6 +28,6 @@
 - Entities: `Residents`, `Waste Officer`, `Admin`, `System`, `Truck`
 
 📁 BPMN Diagram: [bpm_diagram.PNG](./bpm sql.PNG)  
-📝 [Explanation Text](./PHASE 3.pdf)
+📝 [Explanation Text](./PHASE 2.pdf)
 
 ---

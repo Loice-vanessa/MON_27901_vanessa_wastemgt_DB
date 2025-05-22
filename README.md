@@ -19,3 +19,15 @@
 **Goal**: Automate reporting, track collections, assign zones, and monitor fleet movement.
 
 📁 [problem_statement.pptx](./_Mon_27901_Icyeza_PLSQL.pptx)
+
+---
+
+## 🔹 Phase II: Business Process Modeling
+
+- Uses **BPMN/UML** to show flow from waste request → truck assignment → collection → reporting
+- Entities: `Residents`, `Waste Officer`, `Admin`, `System`, `Truck`
+
+📁 BPMN Diagram: [bpm_diagram.PNG](./bpm sql.PNG)  
+📝 [Explanation Text](./PHASE 3.pdf)
+
+---

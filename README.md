@@ -47,7 +47,7 @@
 📁 ER Diagram: [`er_diagram.png`](./Phase_III_Logical_Model_Design/er_diagram.png)  
 📝 Description: [`er_description.txt`](./Phase_III_Logical_Model_Design/er_description.txt)
 
-> 🖼️ **INSERT SCREENSHOT** of the full ER diagram here.
+> 🖼️ **SCREENSHOT** of the full ER diagram here.
 ![ER Diagram](https://github.com/user-attachments/assets/ee256389-92fd-4513-b7ae-52fadf1d5525)
 
 ---
@@ -62,7 +62,9 @@
 📷 OEM Monitoring:<img width="959" alt="pl1" src="https://github.com/user-attachments/assets/041bc573-86a7-43c7-b53c-c4f5402e1297" />
 (./Phase_IV_Database_Creation/oem_screenshots)
 
-> 🖼️ **INSERT SCREENSHOTS**:
+> 🖼️ **SCREENSHOTS**:
+> <img width="959" alt="pl1" src="https://github.com/user-attachments/assets/041bc573-86a7-43c7-b53c-c4f5402e1297" />
+(./Phase_IV_Database_Creation/oem_screenshots)
 > - SQL Developer showing database creation
 > - OEM monitoring dashboard
 
@@ -79,7 +81,10 @@
 <img width="803" alt="pl2" src="https://github.com/user-attachments/assets/fb6c8129-0ade-4779-be00-d30e97485072" />
 <img width="956" alt="pl3" src="https://github.com/user-attachments/assets/7ff13535-6120-42fe-90d5-406cbc7aa1ba" />
 <img width="959" alt="pl4" src="https://github.com/user-attachments/assets/42e3d93c-8467-41d5-9943-237790a0d55d" />
-> - sql developer
+>
+> ---
+> sql developer
+> 
 <img width="959" alt="pl5" src="https://github.com/user-attachments/assets/fc1cbfc6-8405-4daa-a4bb-360875f6c9cb" />
 <img width="959" alt="pl6" src="https://github.com/user-attachments/assets/816fd737-ef13-4ee1-a01d-644d01ac3777" />
 <img width="815" alt="pl8" src="https://github.com/user-attachments/assets/9f7f8616-4e9a-43d5-8dd9-f09fd64f3047" />
@@ -108,8 +113,8 @@
 
 📁 Files:  
 - [`audit_package.sql`](./Phase_VI_DB_Interaction/audit_package.sql)  
-- [`trg_block_dml_employee.sql`](./Phase_VI_DB_Interaction/trg_block_dml_employee.sql)  [Uplo
--- === PHASE VI: DDL, DML, PROCEDURES, FUNCTIONS, AND PACKAGES ===
+- [`trg_block_dml_employee.sql`](./Phase_VI_DB_Interaction/trg_block_dml_employee.sql) 
+  ** PHASE VI: DDL, DML, PROCEDURES, FUNCTIONS, AND PACKAGES **
 
 -- Add column to Waste_Requests
 ALTER TABLE Waste_Requests ADD description VARCHAR2(255);
@@ -221,10 +226,7 @@ ading phase_vi_interactions.sql…]()
   - Trigger behavior
   - Monitoring logs via OEM
 
-> 🖼️ **INSERT SCREENSHOTS**:
-> - OEM dashboard
-> - [Uploading p
--- === PHASE VII: ADVANCED DATABASE PROGRAMMING AND AUDITING ===
+-- ** PHASE VII: ADVANCED DATABASE PROGRAMMING AND AUDITING **
 
 -- 1. Holidays Reference Table
 CREATE TABLE Holidays (
@@ -305,5 +307,14 @@ hase_vii_advanced_auditing.sql…]()
 4. Monitor with **OEM** and verify procedures/triggers
 
 ---
+## 🙏 Acknowledgement
+
+I would like to express my heartfelt gratitude to ** eric MANIRAGUHA** for the continuous support, guidance, and encouragement throughout this project. Your mentorship has been instrumental in shaping my understanding and skills.
+
+> _"And let us not grow weary of doing good, for in due season we will reap, if we do not give up."_  
+> — **Galatians 6:9**
+
+May God richly bless you for your dedication and the knowledge you so generously share.
+
 
 

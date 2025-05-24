@@ -1,4 +1,4 @@
-![ER Diagram](https://github.com/user-attachments/assets/ee256389-92fd-4513-b7ae-52fadf1d5525)![UML for WESTE MANAGEMENT SYSTEM](https://github.com/user-attachments/assets/ec7b8265-924d-41c0-85c1-0901cf749cab)# 🗑 Waste Management System Database Project
+# 🗑 Waste Management System Database Project
 
 ## 📌 Project Information
 
@@ -36,9 +36,7 @@
 📝 Description: [`bpm_description.txt`](./Phase_II_Business_Process_Modeling/bpm_description.txt)  
 
 > 🖼️ **INSERT SCREENSHOT** of your BPMN model here.
-![UML for WESTE MANAGEMENT SYSTEM](https://github.com/user-attachments/assets/5ce49e65-2d5a-4963-94d3-c57cf12ad54c)
-
-![ER Diagram](https://github.com/user-attachments/assets/06cec97a-71bf-4a05-b0ce-3b8abc3c24f7)
+![ER Diagram](https://github.com/user-attachments/assets/ee256389-92fd-4513-b7ae-52fadf1d5525)![UML for WESTE MANAGEMENT SYSTEM](https://github.com/user-attachments/assets/ec7b8265-924d-41c0-85c1-0901cf749cab)
 
 ---
 

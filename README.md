@@ -22,7 +22,7 @@
 - Track waste collection operations  
 - Improve fleet visibility
 
-📁 File: [`problem_statement.pptx`](MON_27901_vanessa_wastemgt_DB/_Mon_27901_Icyeza_PLSQL (2).pptx)  
+📁 File: [problem_statement.pptx](MON_27901_vanessa_wastemgt_DB/_Mon_27901_Icyeza_PLSQL%20(2).pptx)
 
 ---
 

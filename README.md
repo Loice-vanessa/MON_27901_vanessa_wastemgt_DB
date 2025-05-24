@@ -32,7 +32,8 @@
 - Tools: BPMN/UML  
 - Key Actors: `Resident`, `Waste Officer`, `Admin`, `Truck`, `System`
 
-📁 BPMN Diagram: [`bpm_diagram.drawio`](./Phase_II_Business_Process_Modeling/bpm_diagram.drawio)  
+📁 BPMN Diagram: [`bpm_diagram.drawio`](./Phase_II_Business_Process_Modeling/bpm_diagram.drawio)  [Uploading II. Phase Business Process Modeling.txt…]()
+
 📝 Description: [`bpm_description.txt`](./Phase_II_Business_Process_Modeling/bpm_description.txt)  
 
 > 🖼️ **INSERT SCREENSHOT** of your BPMN model here.
@@ -61,7 +62,8 @@
 - Tool: Oracle SQL Developer + Oracle Enterprise Manager (OEM)
 
 📁 Script: [`database_creation_script.sql`](./Phase_IV_Database_Creation/database_creation_script.sql)  
-📷 OEM Monitoring: [`oem_screenshots`](./Phase_IV_Database_Creation/oem_screenshots)
+📷 OEM Monitoring:<img width="959" alt="pl1" src="https://github.com/user-attachments/assets/041bc573-86a7-43c7-b53c-c4f5402e1297" />
+(./Phase_IV_Database_Creation/oem_screenshots)
 
 > 🖼️ **INSERT SCREENSHOTS**:
 > - SQL Developer showing database creation

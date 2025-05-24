@@ -50,7 +50,7 @@
 📝 Description: [`er_description.txt`](./Phase_III_Logical_Model_Design/er_description.txt)
 
 > 🖼️ **INSERT SCREENSHOT** of the full ER diagram here.
-![Uploading ER Diagram.svg…]()
+![ER Diagram](https://github.com/user-attachments/assets/ee256389-92fd-4513-b7ae-52fadf1d5525)
 
 ---
 

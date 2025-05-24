@@ -307,14 +307,7 @@ hase_vii_advanced_auditing.sql…]()
 4. Monitor with **OEM** and verify procedures/triggers
 
 ---
-## 🙏 Acknowledgement
 
-I would like to express my heartfelt gratitude to ** eric MANIRAGUHA** for the continuous support, guidance, and encouragement throughout this project. Your mentorship has been instrumental in shaping my understanding and skills.
-
-> _"And let us not grow weary of doing good, for in due season we will reap, if we do not give up."_  
-> — **Galatians 6:9**
-
-May God richly bless you for your dedication and the knowledge you so generously share.
-
-
+### THANK U 
+**Thank you and God bless you richly!**
 

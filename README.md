@@ -12,7 +12,6 @@
 ---
 
 ## 🔹 Phase I: Problem Statement and Presentation  
-📅 **Deadline**: March 25, 2025 – 11:59 PM
 
 **Problem**: Inefficient waste collection and poor tracking in urban areas.  
 **Users**: Waste officers, admins, garbage truck drivers  
@@ -32,11 +31,9 @@
 - Tools: BPMN/UML  
 - Key Actors: `Resident`, `Waste Officer`, `Admin`, `Truck`, `System`
 
-📁 BPMN Diagram: [`bpm_diagram.drawio`](./Phase_II_Business_Process_Modeling/bpm_diagram.drawio)  [Uploading II. Phase Business Process Modeling.txt…]()
+📁 BPMN Diagram: 
 
-📝 Description: [`bpm_description.txt`](./Phase_II_Business_Process_Modeling/bpm_description.txt)  
-
-> 🖼️ **INSERT SCREENSHOT** of your BPMN model here.
+> 🖼️ **SCREENSHOT** of my BPMN model here.
 ![ER Diagram](https://github.com/user-attachments/assets/ee256389-92fd-4513-b7ae-52fadf1d5525)![UML for WESTE MANAGEMENT SYSTEM](https://github.com/user-attachments/assets/ec7b8265-924d-41c0-85c1-0901cf749cab)
 
 ---
@@ -309,24 +306,4 @@ hase_vii_advanced_auditing.sql…]()
 
 ---
 
-## 🗂 Suggested Folder Structure
 
-```bash
-/
-├── Phase_I_Problem_Statement_Presentation/
-│   └── problem_statement.pptx
-├── Phase_II_Business_Process_Modeling/
-│   ├── bpm_diagram.drawio
-│   └── bpm_description.txt
-├── Phase_III_Logical_Model_Design/
-│   ├── er_diagram.png
-│   └── er_description.txt
-├── Phase_IV_Database_Creation/
-│   ├── database_creation_script.sql
-│   └── oem_screenshots/
-├── Phase_V_DDL_DML/
-│   └── data_operations.sql
-├── Phase_VI_DB_Interaction/
-│   ├── audit_package.sql
-│   └── trg_block_dml_employee.sql
-└── README.md
